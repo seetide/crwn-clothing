@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^6.5.0",
+    "firebase": "^6.6.0",
     "node-sass": "^4.12.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -42,5 +42,14 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seetide/crwn-clothing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seetide/crwn-clothing/issues"
+  },
+  "homepage": "https://github.com/seetide/crwn-clothing#readme"
 }
